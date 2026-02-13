@@ -20,7 +20,7 @@ Built for professionals, researchers, and enterprises, DocuAgent eliminates manu
 
 ---
 
-## 🚀 Features
+## Features
 
 * **📄 Automated Document Generation**: Convert rough notes into structured, publication-ready reports.
 * **📊 AI Slide Deck Creator**: Instantly generate clean, hierarchy-driven presentation slides (PPTX).
@@ -32,7 +32,7 @@ Built for professionals, researchers, and enterprises, DocuAgent eliminates manu
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend**: React (Vite), Tailwind CSS
 * **Gateway Layer**: Node.js, Express
@@ -44,7 +44,7 @@ Built for professionals, researchers, and enterprises, DocuAgent eliminates manu
 
 ---
 
-## 📦 Project Structure
+##  Project Structure
 
 ```bash
 DOCUAGENT/
@@ -68,7 +68,7 @@ DOCUAGENT/
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -117,7 +117,7 @@ http://localhost:5000
 
 ---
 
-## ☁️ Deployment Guide (Render / Docker)
+##  Deployment Guide (Render / Docker)
 
 DocuAgent is built for zero-friction deployment.
 
@@ -143,7 +143,7 @@ docker run -p 5000:5000 docuagent
 
 ---
 
-## 🧠 Architecture Overview
+##  Architecture Overview
 
 DocuAgent follows a modular microservice design:
 
@@ -169,15 +169,15 @@ DocuAgent follows a modular microservice design:
 
 ## 📊 Use Cases
 
-* 🏢 Corporate reporting automation
-* 🎓 Academic documentation
-* 📚 Student project structuring
-* 🧑‍💼 Consultant deliverables
-* 📊 Data-to-presentation workflows
+*  Corporate reporting automation
+*  Academic documentation
+*  Student project structuring
+*  Consultant deliverables
+*  Data-to-presentation workflows
 
 ---
 
-## 🌍 Vision
+##  Vision
 
 DocuAgent AI aims to transform documentation from a manual bottleneck into an intelligent automation layer capable of producing structured, scalable, and enterprise-ready outputs.
 
@@ -190,7 +190,7 @@ Future roadmap includes:
 
 ---
 
-## 🛡️ License
+##  License
 
 Copyright (c) 2026 Rohith Vittamraj
 
