@@ -147,7 +147,7 @@ def build_document():
     except Exception as e:
         log.error("Failed to get diagrams: %s", e)
         diagram_specs = []
-
+ 
     # 3) Build Polished DOCX
     doc = Document()
 
