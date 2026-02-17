@@ -130,7 +130,7 @@ app.get("/auth/me", auth, async (req, res) => {
     res.json({ name: user.name });
   } catch (err) {
     res.status(500).json({ message: "Server error" });
-  }
+  } 
 });
 
 // -----------------------------------------------------------------------------
