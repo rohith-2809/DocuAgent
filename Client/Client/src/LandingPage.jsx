@@ -1,5 +1,4 @@
 // src/pages/LandingPage.jsx
-
 import axios from "axios";
 import { AnimatePresence, motion } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
