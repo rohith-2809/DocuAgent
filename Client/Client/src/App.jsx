@@ -7,7 +7,7 @@ import UploadPage from './UploadPage';
 import HistoryPage from './HistoryPage';
 import LoginPage from './LoginPage';
 import SignupPage from './SignupPage';
-
+ 
 function App() {
   return (
     <Router>
