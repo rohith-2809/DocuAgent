@@ -74,6 +74,7 @@ const HistorySchema = new mongoose.Schema({
 });
 const History = mongoose.model("History", HistorySchema);
 
+
 // -----------------------------------------------------------------------------
 // Auth middleware
 const auth = (req, res, next) => {
